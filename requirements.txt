@@ -1,6 +1,11 @@
-Flask
+Flask~=3.1.0
 selenium~=4.31.0
 beautifulsoup4~=4.13.4
 webdriver-manager
 requests~=2.32.3
 pandas~=2.2.3
+fpdf2~=2.8.3
+matplotlib~=3.10.1
+seaborn~=0.13.2
+xlsxwriter-3.2.3
+gunicorn
